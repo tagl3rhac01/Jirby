@@ -1,5 +1,5 @@
 # Jirby
- 2-D Game
+ 2-D Game for fun
 
 ![game preview](preview.png)
 
