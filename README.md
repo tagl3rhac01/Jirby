@@ -1,7 +1,9 @@
 # Jirby
- 2-D Game for fun
+ 2-D Game using TypeScript
 
 ![game preview](preview.png)
+
+LIVE DEMO: https://jirby.vercel.app/
 
 
 ## How to run the project ?
