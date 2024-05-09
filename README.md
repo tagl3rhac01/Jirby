@@ -4,6 +4,7 @@
 ![game preview](preview.png)
 
 LIVE DEMO: https://jirby.vercel.app/
+
 Controls:
 1. Press 'X' to jump.
 2. Press 'Z' to eat enemy.
